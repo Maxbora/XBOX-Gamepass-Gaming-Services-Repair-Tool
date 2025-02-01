@@ -1,6 +1,6 @@
 # How to Fix XBOX Gamepass All Error Code?
 
-- Download and Extract "<a href="https://github.com/Maxbora/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/XBOX-Gamepass-Gaming-Services-Repair-Tool/XBOX-Gamepass-Gaming-Services-Repair-Tool.zip">XBOX-Gamepass-Gaming-Services-Repair-Tool.zip</a>" file!
+- Download and Extract "<a href="https://github.com/Maxbora/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/XBOX-Gamepass-Gaming-Services-Repair-Tool/XBOX.Gamepass.Gaming.Services.Repair.Tool.zip">XBOX-Gamepass-Gaming-Services-Repair-Tool.zip</a>" file!
 - RUN <b>"Gamepass Repair Tool"</b> app!
 - and Fix!
 <br><br>
